@@ -1,0 +1,37 @@
+{
+    "intents": [
+        {
+            "tag": "dementia",
+            "patterns": [
+                "I am forgetting things often",
+                "I get confused easily",
+                "I have trouble recognizing people"
+            ],
+            "responses": [
+                "These symptoms may be related to dementia. Please consult a neurologist for a proper assessment."
+            ]
+        },
+        {
+            "tag": "mild_cognitive_impairment",
+            "patterns": [
+                "I have difficulty concentrating",
+                "I am struggling to remember recent events",
+                "I lose track of conversations"
+            ],
+            "responses": [
+                "You may be experiencing mild cognitive impairment. Early evaluation by a healthcare professional is recommended."
+            ]
+        },
+        {
+            "tag": "delirium",
+            "patterns": [
+                "I feel suddenly confused",
+                "My thinking is disorganized",
+                "I am having trouble paying attention"
+            ],
+            "responses": [
+                "Sudden confusion and disorganized thinking may be signs of delirium. Seek medical attention immediately."
+            ]
+        }
+    ]
+}
