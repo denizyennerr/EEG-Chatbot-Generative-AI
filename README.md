@@ -2,7 +2,7 @@
 
 
 ### A Voice-Enabled Healthcare Chatbot for Neurodegenerative Disorder Identification
-* This chatbot, either with a female or male voice option, talks with the user in natural language and helps the user identify what kind of neurodegenerative disorder one might have based on the symptoms the user provides.
+This chatbot, either with a female or male voice option, talks with the user in natural language and helps the user identify what kind of neurodegenerative disorder one might have based on the symptoms the user provides.
 ---
 
 ## **Overview**
