@@ -1,8 +1,7 @@
 # EEG-Chatbot-Generative-AI
 
-
 ### A Voice-Enabled Healthcare Chatbot for Neurodegenerative Disorder Identification
-This chatbot, either with a female or male voice option, talks with the user in natural language and helps the user identify what kind of neurodegenerative disorder one might have based on the symptoms the user provides.
+#### This chatbot, either with a female or male voice option, talks with the user in natural language and helps the user identify what kind of neurodegenerative disorder one might have based on the symptoms the user provides.
 ---
 
 ## **Overview**
@@ -14,7 +13,7 @@ This project is a voice-enabled healthcare chatbot that utilizes deep learning t
 - Deep learning model trained to recognize patterns in neurodegenerative disorders.
 ---
 
-## 🛠 **Technologies & Libraries**
+## **Technologies & Libraries**
 
 | Library/Module          | Purpose                                                                                     |
 |-------------------------|---------------------------------------------------------------------------------------------|
@@ -27,7 +26,7 @@ This project is a voice-enabled healthcare chatbot that utilizes deep learning t
 | **SGD Optimizer**       | Stochastic Gradient Descent for efficiently training the neural network.                  |
 ---
 
-## 🚀 **Getting Started**
+## **Getting Started**
 ### Prerequisites
 - Python 3.8+
 - Pip (for dependency installation)
@@ -55,7 +54,7 @@ This project is a voice-enabled healthcare chatbot that utilizes deep learning t
 4. **Voice Response**: The chatbot responds with a voice (male/female) and suggests next steps (e.g., "Consider consulting a neurologist").
 
 ---
-## 📂 **Project Structure**
+## **Project Structure**
 ```
 EEG-Chatbot-Generative-AI/
 │
@@ -83,7 +82,7 @@ EEG-Chatbot-Generative-AI/
 ```
 ---
 
-## 🤝 **Contributing**
+## **Contributing**
 Contributions are welcome! Here’s how you can help:
 - **Report bugs**: Open an issue with details.
 - **Suggest features**: Share ideas for improvements.
@@ -95,14 +94,14 @@ Contributions are welcome! Here’s how you can help:
 - Test changes before submitting.
 ---
 
-## 📜 **License**
-This project is licensed under the **MIT License** – see [LICENSE](LICENSE) for details.
+## **License**
+#### This project is licensed under the **MIT License** – see [LICENSE](LICENSE) for details.
 ---
 
-## 📬 **Contact**
+## **Contact**
 For questions or collaborations, reach out:
 - **Email**: deniz.yener@proton.me
 - **GitHub**: [@denizyennerr](https://github.com/denizyennerr)
 
 ---
-**Note**: This chatbot is for **educational and preliminary use only**. Always consult a healthcare professional for medical advice.
+**Disclaimer**: This chatbot is for **educational and preliminary use only**. Always consult a healthcare professional for medical advice.
